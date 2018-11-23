@@ -1,7 +1,9 @@
-# Data-Visualization-Projects
-These are data visualization projects that I've worked on, mostly through Python
+# Data Analysis through Visualization
+These are data analysis projects that I've worked on, mostly through Python, utilizing Visualization techniques to better understand data
 
-Choropleth Mapping -- Creating geographical maps using plotly
+Choropleth Mapping -- Created geographical maps using plotly
+911 Calls (Online Course Capstone Project) -- An exploratory analysis of the dataset including descriptions of findings using the Montegomery County 911 Calls dataset available on Kaggle.
 
-
+To view my Kaggle profile, you can use this link: https://www.kaggle.com/thealongsider
 To view my work with Tableau, you can use this link: public.tableau.com/profile/brandon.massaro/
+
