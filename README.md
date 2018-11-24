@@ -6,5 +6,6 @@ These are data analysis projects that I've worked on, mostly through Python, uti
 Choropleth Mapping -- Created geographical maps using plotly
 
 To view my Kaggle profile, you can use this link: https://www.kaggle.com/thealongsider
+
 To view my work with Tableau, you can use this link: public.tableau.com/profile/brandon.massaro/
 
