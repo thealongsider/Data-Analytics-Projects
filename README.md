@@ -1,6 +1,8 @@
 # Data Analysis through Visualization
 These are data analysis projects that I've worked on, mostly through Python, utilizing Visualization techniques to better understand data
 
+Financial Crisis Bank Data - Capstone Project -- An exploratory analysis of stock market data for 6 major banks throughout the 10 year period surrounding the financial crisis. I completed this capstone project as part of an online data science course.
+
 911 Calls -Capstone Project -- An exploratory analysis of the dataset including descriptions of findings using the Montegomery County 911 Calls dataset available on Kaggle. I completed this capstone project as part of an online data science course.
 
 Choropleth Mapping -- Created geographical maps using plotly
