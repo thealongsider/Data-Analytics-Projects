@@ -1,5 +1,7 @@
-# Data Analysis through Visualization
-These are data analysis projects that I've worked on, mostly through Python, utilizing Visualization techniques to better understand data
+# Data Analytics Projects
+These are data analysis projects that I've worked on, mostly through Python, utilizing Visualization techniques and regression analysis to pull insights from data sets.
+
+Ecommerce Analysis using Linear Regression -- Used Linear Regression to give insight into ecommerce company's decision on whether to focus on their mobile app or website. I completed this project as part of an online data science course. The data and company are fictional.
 
 Financial Crisis Bank Data - Capstone Project -- An exploratory analysis of stock market data for 6 major banks throughout the 10 year period surrounding the financial crisis. I completed this capstone project as part of an online data science course.
 
