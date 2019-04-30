@@ -1,5 +1,7 @@
 # Data Analytics Projects
-These are data analysis projects that I've worked on, mostly through Python, utilizing visualization and various statistical analysis techniques to pull insights from data sets.
+These are data analysis projects that I've worked on, mostly through Python, utilizing visualization and various statistical analysis techniques to pull insights from data sets. Projects are ordered by most recent.
+
+K Nearest Neighbors For Anonymized Data Set -- Created a K Nearest Neighbors classifier to predict target variable of an anonymized data set. I completed this project as part of an online data science course.
 
 Advertising Predictions using Logistic Regression -- Used Logistic Regression to predict whether users would click on an ad based on user data and to understand what are the leading factors to why users click on ads. I completed this project as part of an online data science course.
 
