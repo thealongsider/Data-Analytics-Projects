@@ -1,11 +1,18 @@
 # Data Analytics Projects
 These are data analysis projects that I've worked on, mostly through Python, utilizing visualization and various statistical analysis techniques to pull insights from data sets. Projects are ordered by most recent.
 
+To view my Kaggle profile, you can use this link: https://www.kaggle.com/thealongsider
+
+To view my work with Tableau, you can use this url: public.tableau.com/profile/brandon.massaro/
+
+-----
+Predicting Credit Card Approvals Using Logistic Regression -- Used Logistic Regression to create a model that predicts credit card removal. Utilized Grid Search to tune the model for better performance. I completed this project provided by DataCamp.
+
 K Nearest Neighbors For Anonymized Data Set -- Created a K Nearest Neighbors classifier to predict target variable of an anonymized data set. I completed this project as part of an online data science course.
 
 Advertising Predictions using Logistic Regression -- Used Logistic Regression to predict whether users would click on an ad based on user data and to understand what are the leading factors to why users click on ads. I completed this project as part of an online data science course.
 
-Bank Debts Recovery Analysis -- Used Linear Regression, Chi Squared tests, and Kruskal-Wallis statistical test to confirm the validity of different levels of debt recovery strategy spending based on user expected return value. I completed this project provided by DataCamp
+Bank Debts Recovery Analysis -- Used Linear Regression, Chi Squared tests, and Kruskal-Wallis statistical test to confirm the validity of different levels of debt recovery strategy spending based on user expected return value. I completed this project provided by DataCamp.
 
 AB Testing Retention Rate for Mobile Games Company -- Used the dataset from an A/B test for a mobile game to determine whether changing a game element to a different level improved user retention. I completed this project provided by DataCamp. 
 
@@ -16,8 +23,3 @@ Financial Crisis Bank Data - Capstone Project -- An exploratory analysis of stoc
 911 Calls -Capstone Project -- An exploratory analysis of the dataset including descriptions of findings using the Montegomery County 911 Calls dataset available on Kaggle. I completed this capstone project as part of an online data science course.
 
 Choropleth Mapping -- Created geographical maps using plotly
-
-To view my Kaggle profile, you can use this link: https://www.kaggle.com/thealongsider
-
-To view my work with Tableau, you can use this url: public.tableau.com/profile/brandon.massaro/
-
