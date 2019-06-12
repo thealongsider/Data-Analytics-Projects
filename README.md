@@ -1,11 +1,15 @@
 # Data Analytics Projects
-These are data analysis projects that I've worked on, mostly through Python, utilizing visualization and various statistical analysis techniques to pull insights from data sets. Projects are ordered by most recent.
+These are data analysis projects that I've worked on using Python, SQL and excel, utilizing visualization and various statistical analysis techniques to pull insights from data sets. Projects are ordered by most recently added.
 
 To view my Kaggle profile, you can use this link: https://www.kaggle.com/thealongsider
 
 To view my work with Tableau, you can use this url: public.tableau.com/profile/brandon.massaro/
 
 -----
+Root Cause Analysis for Springboard Case Study -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
+
+Funnel Analysis for Springboard Case Study -- Created a Funnel Analysis to identify growth opportunities for online retailer. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
+
 Predicting Credit Card Approvals Using Logistic Regression -- Used Logistic Regression to create a model that predicts credit card removal. Utilized Grid Search to tune the model for better performance. I completed this project provided by DataCamp.
 
 K Nearest Neighbors For Anonymized Data Set -- Created a K Nearest Neighbors classifier to predict target variable of an anonymized data set. I completed this project as part of an online data science course.
