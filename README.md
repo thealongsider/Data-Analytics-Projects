@@ -13,13 +13,13 @@ Advertising Predictions using Logistic Regression -- Used Logistic Regression to
 
 **Recently Added**
 
+Decision Trees & Random Forest to Predict Borrower Payback -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
+
 Root Cause Analysis for Springboard Case Study -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
 
 Funnel Analysis for Springboard Case Study -- Created a Funnel Analysis to identify growth opportunities for online retailer. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
 
 Predicting Credit Card Approvals Using Logistic Regression -- Used Logistic Regression to create a model that predicts credit card removal. Utilized Grid Search to tune the model for better performance. I completed this project provided by DataCamp.
-
-K Nearest Neighbors For Anonymized Data Set -- Created a K Nearest Neighbors classifier to predict target variable of an anonymized data set. I completed this project as part of an online data science course.
 
 **Projects [A-Z]**
 
@@ -32,6 +32,8 @@ Advertising Predictions using Logistic Regression -- Used Logistic Regression to
 Bank Debts Recovery Analysis -- Used Linear Regression, Chi Squared tests, and Kruskal-Wallis statistical test to confirm the validity of different levels of debt recovery strategy spending based on user expected return value. I completed this project provided by DataCamp.
 
 Choropleth Mapping -- Created geographical maps using plotly
+
+Decision Trees & Random Forest to Predict Borrower Payback -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
 
 Ecommerce Analysis using Linear Regression -- Used Linear Regression to give insight into ecommerce company's decision on whether to focus on their mobile app or website. I completed this project as part of an online data science course. The data and company are fictional.
 
