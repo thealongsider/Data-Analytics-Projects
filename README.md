@@ -12,14 +12,13 @@ To view my work with Tableau, you can use this url: public.tableau.com/profile/b
 Advertising Predictions using Logistic Regression (python) -- Used Logistic Regression to predict whether users would click on an ad based on user data and to understand what are the leading factors to why users click on ads. I completed this project as part of an online data science course.
 
 **Recently Added**
+Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Decision Trees & Random Forest to Predict Borrower Payback (python) -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
 
 Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
 
 Funnel Analysis for Springboard Case Study (SQL, excel) -- Created a Funnel Analysis to identify growth opportunities for online retailer. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
-
-Predicting Credit Card Approvals Using Logistic Regression (python)-- Used Logistic Regression to create a model that predicts credit card removal. Utilized Grid Search to tune the model for better performance. I completed this project provided by DataCamp.
 
 **Projects [A-Z]**
 
@@ -44,5 +43,7 @@ Funnel Analysis for Springboard Case Study (SQL, excel) -- Created a Funnel Anal
 K Nearest Neighbors For Anonymized Data Set (python) -- Created a K Nearest Neighbors classifier to predict target variable of an anonymized data set. I completed this project as part of an online data science course.
 
 Predicting Credit Card Approvals Using Logistic Regression (python)-- Used Logistic Regression to create a model that predicts credit card removal. Utilized Grid Search to tune the model for better performance. I completed this project provided by DataCamp.
+
+Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
