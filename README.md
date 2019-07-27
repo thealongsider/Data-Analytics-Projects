@@ -12,6 +12,7 @@ To view my work with Tableau, you can use this url: public.tableau.com/profile/b
 Advertising Predictions using Logistic Regression (python) -- Used Logistic Regression to predict whether users would click on an ad based on user data and to understand what are the leading factors to why users click on ads. I completed this project as part of an online data science course.
 
 **Recently Added**
+
 Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Decision Trees & Random Forest to Predict Borrower Payback (python) -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
