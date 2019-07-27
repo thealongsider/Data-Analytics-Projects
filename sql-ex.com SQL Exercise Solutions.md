@@ -733,7 +733,7 @@ WHERE ship IN (SELECT name
 
 51.Find the names of the ships with the largest number of guns among all ships having the same displacement (including ships in the Outcomes table).
 
-~~
+~~~
 WITH a AS (SELECT name AS ship, 
                   numGuns, 
                   displacement
