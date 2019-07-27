@@ -13,13 +13,13 @@ Advertising Predictions using Logistic Regression (python) -- Used Logistic Regr
 
 **Recently Added**
 
+sql-ex.com SQL Exercise Solutions.md (SQL) -- Added the SQL query exercises I have been completing on sql-ex.com as a way to include more SQL code into this repository.
+
 Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Decision Trees & Random Forest to Predict Borrower Payback (python) -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
 
 Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
-
-Funnel Analysis for Springboard Case Study (SQL, excel) -- Created a Funnel Analysis to identify growth opportunities for online retailer. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
 
 **Projects [A-Z]**
 
@@ -48,3 +48,5 @@ Predicting Credit Card Approvals Using Logistic Regression (python)-- Used Logis
 Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
+
+sql-ex.com SQL Exercise Solutions.md (SQL) -- Added the SQL query exercises I have been completing on sql-ex.com as a way to include more SQL code into this repository.
