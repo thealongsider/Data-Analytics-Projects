@@ -13,13 +13,13 @@ Advertising Predictions using Logistic Regression (python) -- Used Logistic Regr
 
 **Recently Added**
 
+Bank Authentication Classifier with Tensorflow (python) -- Used tensorflow to create a classifier that used image data from the Bank Authentication Data provided by the UCI repository to determine if a bank note was real or not. I completed this project as part of an online data science course.
+
 sql-ex.com SQL Exercise Solutions.md (SQL) -- Added the SQL query exercises I have been completing on sql-ex.com as a way to include more SQL code into this repository.
 
 Predicting Species of Iris Data Set using Support Vector Machines (python) -- Used Support Vector Machines to classify famous Iris dataset. I completed this project as part of an online data science course.
 
 Decision Trees & Random Forest to Predict Borrower Payback (python) -- Created decision tree and random forest models to predict loan payback using Lending Club data. I completed this project as part of an online data science course.
-
-Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause analysis (RCA) on manufacturing and sales data to identify the source of sudden rate of returns increase. I completed this project as a part of Springboard's Business Analytics course with the results approved by a mentor.
 
 **Projects [A-Z]**
 
@@ -28,6 +28,8 @@ Root Cause Analysis for Springboard Case Study (excel) -- Performed a root cause
 AB Testing Retention Rate for Mobile Games Company (python) -- Used the dataset from an A/B test for a mobile game to determine whether changing a game element to a different level improved user retention. I completed this project provided by DataCamp. 
 
 Advertising Predictions using Logistic Regression (python) -- Used Logistic Regression to predict whether users would click on an ad based on user data and to understand what are the leading factors to why users click on ads. I completed this project as part of an online data science course.
+
+Bank Authentication Classifier with Tensorflow (python) -- Used tensorflow to create a classifier that used image data from the Bank Authentication Data provided by the UCI repository to determine if a bank note was real or not. I completed this project as part of an online data science course.
 
 Bank Debts Recovery Analysis (python) -- Used Linear Regression, Chi Squared tests, and Kruskal-Wallis statistical test to confirm the validity of different levels of debt recovery strategy spending based on user expected return value. I completed this project provided by DataCamp.
 
