@@ -771,3 +771,51 @@ WHERE (country = 'Japan' OR country IS NULL)
   AND (bore <19 OR bore IS NULL)
   AND (displacement <=65000 OR displacement IS NULL)
 ~~~
+
+53.With a precision of two decimal places, determine the average number of guns for the battleship classes.
+
+~~~
+SELECT CAST(AVG(numGuns*1.0) AS NUMERIC(6,2))
+FROM classes
+WHERE type = 'bb'
+~~~
+
+54.With a precision of two decimal places, determine the average number of guns for all battleships (including the ones in the Outcomes table).
+
+~~~
+WITH a AS (SELECT name AS ship, 
+                  numGuns
+           FROM classes c
+           JOIN ships s
+            ON s.class = c.class
+           WHERE c.type = 'bb'
+           UNION
+           SELECT ship AS ship, 
+                  numGuns
+           FROM outcomes o
+           JOIN classes c
+           ON o.ship = c.class
+           WHERE c.type = 'bb')
+
+SELECT CAST(AVG(numGuns*1.0) AS NUMERIC(6,2))
+FROM a
+~~~
+
+55.For each class, determine the year the first ship of this class was launched. If the lead ship’s year of launch is not known, get the minimum year of launch for the ships of this class.
+*Note that my solution would not be counted as "correct" because sql-ex expects Bismark (and any other potential ships in the outcomes table but not in the ships table) to be NULL for its year of launch, but I assumed that it must have been launched at least by the time it participated in the battle. 
+
+~~~
+WITH a AS (SELECT ship AS class, YEAR(date) as launched
+FROM outcomes o
+JOIN battles b
+ON o.battle = b.name
+JOIN classes c
+ON c.class = o.ship
+UNION
+SELECT class, launched
+FROM ships)
+
+SELECT class, MIN(launched)
+FROM a
+GROUP BY class
+~~~
