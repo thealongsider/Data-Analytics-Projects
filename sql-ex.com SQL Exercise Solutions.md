@@ -805,17 +805,20 @@ FROM a
 *Note that my solution would not be counted as "correct" because sql-ex expects Bismark (and any other potential ships in the outcomes table but not in the ships table) to be NULL for its year of launch, but I assumed that it must have been launched at least by the time it participated in the battle. 
 
 ~~~
-WITH a AS (SELECT ship AS class, YEAR(date) as launched
-FROM outcomes o
-JOIN battles b
-ON o.battle = b.name
-JOIN classes c
-ON c.class = o.ship
-UNION
-SELECT class, launched
-FROM ships)
+WITH a AS (SELECT ship AS class, 
+                  YEAR(date) AS launched
+           FROM outcomes o
+           JOIN battles b
+            ON o.battle = b.name
+           JOIN classes c
+            ON c.class = o.ship
+           UNION
+           SELECT class, 
+                  launched
+           FROM ships)
 
-SELECT class, MIN(launched)
+SELECT class, 
+       MIN(launched)
 FROM a
 GROUP BY class
 ~~~
